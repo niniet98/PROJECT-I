@@ -1,3 +1,5 @@
+![portada](https://static.wikia.nocookie.net/disney/images/a/a5/Bruce-FN.png/revision/latest/scale-to-width-down/1200?cb=20180505140933&path-prefix=es)
+
 # DA - Data-cleaning & Data-wrangling
 
 ## Overview
