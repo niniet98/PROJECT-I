@@ -11,9 +11,9 @@ If you have the original dataset, add it in the `data` folder and run the `main.
 
 **2. Research questions:** Before starting with the messy dataset, I've raised 3-5 questions related with the provided information in the dataset.
     
-**3. Cleaning data:** With the performed questions, clean the dataset dropping data we do not care about and null rows that bothers.
+**3. Cleaning data:** With the performed questions, I've cleaned the dataset dropping data I do not care about and null rows that bothers.
 
-**4. Transforming data:** Standardizing data of interest to get a clean dataset with the data we need to answer the questions.
+**4. Transforming data:** Standardizing data of interest to get a clean dataset with the data I need to answer the questions.
 
 **5. Visualizing data:** Plotting subsets of data to visualize the data in order to extract conclusions for the raised questions.
 
@@ -55,8 +55,17 @@ For this hypothesis I have made a graph but with half of the data, since the res
 
 ![shark_activity](https://github.com/niniet98/PROJECT-I/blob/main/images/shark_activity.png?raw=true)
 
+## Are men the ones who provoke sharks the most and that's why they end up torn apart?
+
+It is clear that men sometimes act without thinking (no offense). It was only necessary to bring out this graph to confirm what we already know (thanks to society, obviously). The graph shows the overall number of provoked shark attacks and obviously men are the ones who do it the most, but I don't understand it. I would like to think that it is because they are the vast majority who practice activities in the water.
+For all the men reading this, can you answer the question?
+
+![men_behavior](https://github.com/niniet98/PROJECT-I/blob/main/images/men_behavior.png?raw=true)
+
 # CONCLUSIONS
 - Clima change is doing a lot of **DAMAGE** to the earth and humans are losing neurons in each generation.
 - Be alert while surfing, there may be a shark lurking around that wants to take a bite out of you.
 - Young people like the madness, the adrenaline rush.
+- I still don't know when sharks are most active.
+- I still don't undersand why men are that dumb. (no offense)
 
