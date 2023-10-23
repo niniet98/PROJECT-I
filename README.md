@@ -35,7 +35,7 @@ In a first approach related to this question I made a graph tracing the evolutio
 
 ![trace_evolution](https://github.com/niniet98/PROJECT-I/blob/main/images/trace_evolution.png?raw=true)
 
-Having a deep look to the graph, is highlighted that shark attacks have increased over the years, but why? Maybe because they are angry with humanity for the clima change or it's just because each human generation becomes more dumb?
+Having a deep look to the graph, is highlighted that shark attacks have increased over the years, but why? Maybe because they are angry with humanity for the climate change or it's just because each human generation becomes more dumb?
 
 ## Are surfers and swimmers the most exposed to shark attacks?
 
@@ -78,7 +78,7 @@ For all the men reading this, can you answer the question?
 **[Link to Canva](https://www.canva.com/design/DAFyHMF0lnE/KKkSNnSOrZ-nlazc64hpbA/edit?utm_content=DAFyHMF0lnE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 # CONCLUSIONS
-- Clima change is doing a lot of **DAMAGE** to the earth and humans are losing neurons in each generation.
+- Climate change is doing a lot of **DAMAGE** to the earth and humans are losing neurons in each generation.
 - Be alert while surfing, there may be a shark lurking around that wants to take a bite out of you.
 - Young people like the madness, the adrenaline rush.
 - I still don't know when sharks are most active.
