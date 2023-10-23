@@ -1,7 +1,16 @@
 # DA - Data-cleaning & Data-wrangling
 
-## Introduction
+## Overview
 The goal of this project is to perform data analysis on a messy data set Shark Attack using different techniques of data cleaning and manipulation in order to get answers to the asked questions.
+
+## Requirements
+This code was written in Python and Jupyter Notebook.
+
+Have been used the following libraries:
+- Numpy
+- Pandas
+- matplotlib.pyplot
+- Seaborn
 
 ## Instructions
 If you have the original dataset, add it in the `data` folder and run the `main.py` to see the art of magic. If not, just keep reading and then make your own conclusions.
