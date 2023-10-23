@@ -13,7 +13,7 @@ Have been used the following libraries:
 - Seaborn
 
 ## Instructions
-If you have the original dataset, add it in the `data` folder (create it in the root if it do not exists) and run the `main.py` to see the art of magic. If not, just keep reading and then make your own conclusions.
+If you have the original dataset, add it in the `data` folder (create it in the root if it does not exists) and run the `main.py` to see the art of magic. If not, just keep reading and then make your own conclusions.
 
 ## Process
 **1. Exploring data:** First contact with the dataset in order to know what is the data about.
