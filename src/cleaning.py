@@ -33,7 +33,11 @@ def class_by_string(string):
     
 def class_by_time(string):
     """
-    This function receives a string in the format '12:00' and determines whether this time is 'Morning', 'Afternoon', 'Evening' or 'Night'.
+    Takes the param string in format '12:00' and determines whether this time is 'Morning', 'Afternoon', 'Evening' or 'Night'.
+    Params:
+        string (str): Time in the day, ex: 12:30
+    Returns:
+        string (str): Moment of the day, ex: Afternoon
     """
     morning_pattern = r'0[6-9]:[0-5][0-9]|1[0-1]:[0-5][0-9]'
     afternoon_pattern = r'1[2-7]:[0-5][0-9]'
@@ -83,7 +87,7 @@ def clean_year(year):
     
 def sex_clean(x):
     """
-    This function standarizes all the values found in the dataframe sex column.
+    Takes the original sex in the dataframe and standardizes it.
     Params:
         x (str): Value of the sex
     Returns:
@@ -99,7 +103,6 @@ def sex_clean(x):
 def replace_activities(activity):
     """
     Takes the original activity in the dataframe and classifies it in a category according to key words.
-    Returns the category that contains any keyword.
     Params:
         x (str): Value of the original activity
     Returns:
