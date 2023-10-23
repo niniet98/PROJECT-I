@@ -15,3 +15,6 @@ The goal of this project is to perform data analysis on a messy data set Shark A
 **5. Visualizing data:** Plotting subsets of data to visualize the data in order to extract conclusions for the raised questions.
 
 ## Story-telling based on the data analysis
+**A Century of Shark Attacks: Tracing the Evolution**
+
+![trace_evolution](https://github.com/niniet98/PROJECT-I/blob/main/images/trace_evolution.png)
