@@ -3,6 +3,9 @@
 ## Introduction
 The goal of this project is to perform data analysis on a messy data set Shark Attack using different techniques of data cleaning and manipulation in order to get answers to the asked questions.
 
+## Instructions
+If you have the original dataset, add it in the `data` folder and run the `main.py` to see the art of magic. If not, just keep reading and then make your own conclusions.
+
 ## Process
 **1. Exploring data:** First contact with the dataset in order to know what is the data about.
 
@@ -15,7 +18,7 @@ The goal of this project is to perform data analysis on a messy data set Shark A
 **5. Visualizing data:** Plotting subsets of data to visualize the data in order to extract conclusions for the raised questions.
 
 # Story-telling based on the data analysis
-## A Century of Shark Attacks: Tracing the Evolution
+## Does shark attacks have increased over the years?
 
 In a first approach related to this question I made a graph tracing the evolution of shark atacks over the years but I saw that between 1543 and 1800 there was almost no activity, so I filtered the data in order to show the evolution over the years since 1800.
 
@@ -23,22 +26,37 @@ In a first approach related to this question I made a graph tracing the evolutio
 
 Having a deep look to the graph, is highlighted that shark attacks have increased over the years, but why? Maybe because they are angry with humanity for the clima change or it's just because each human generation becomes more dumb?
 
-## Shark Attack Activities
-**What Stands Out as the Most Common?**
+## Are surfers and swimmers the most exposed to shark attacks?
 
-For the graph presented below, I computed the average number of shark attacks by activity to identify those activities that exceed the mean number of attacks. This allows us to make a detailed comparison of the frequency of shark attacks in relation to various activities. By highlighting the activities that are above the average, we can gain a clearer insight into which ones potentially pose a higher risk in terms of encounters with sharks.
+For the graph presented below, I computed the average number of shark attacks by activity to identify those activities that exceed the mean. This allows us to make a detailed comparison of the frequency of shark attacks in relation to various activities. By highlighting the activities that are above the average, we can gain a clearer insight into which ones potentially pose a higher risk in terms of encounters with sharks.
 
 ![common_activity](https://github.com/niniet98/PROJECT-I/blob/main/images/most_common_activity.png?raw=true)
 
+As the most common activities during shark attacks there's surfing on the top, and then fishing followed of swimming.
+In a quick research on internet I've read that sharks may confuse a human on a surboard with a sealion because of its shape, that it's similar,  but that the bite is usually not as lethal in humans.
+
 **Which Gender Dominates the Scene?**
 
-aa
-
+In addition, I wanted to show the attacks in the mentioned activities by gender, and it can be seen that the male gender is the most attacked.
 
 ![common_activity_sex](https://github.com/niniet98/PROJECT-I/blob/main/images/most_common_activity_sex.png?raw=true)
 
-## CONCLUSIONS
-- The clima change is doing a lot of DAMAGE to the earth.
-- Humans are losing neurons.
+## Are the young people the most attacked by sharks?
 
+According to the graph below, 50% of the people injured by sharks are between 17 and 35 years old and the median is at 24 years old, which means that 25% of the people attacked are between 17 and 24 years old. Then there are some outliers which are rare data, i.e., according to the data set provided, it is rare for a 70 year old person to be attacked.
+
+![age_attack_pattern](https://github.com/niniet98/PROJECT-I/blob/main/images/age_attack_patterns.png?raw=true)
+
+With this information we can relate the previous conclusion to this, highlighting that younger people are the ones who tend to perform activities in the sea where there are more shark attacks.
+
+## Are sharks more active at night?
+
+For this hypothesis I have made a graph but with half of the data, since the rest was not reported in the dataset. I do not know if it is very valid since this information cannot be contrasted without half of the data but it does not answer the question I have raised, as I have always thought that marine life at night is more active than during the day.
+
+![shark_activity](https://github.com/niniet98/PROJECT-I/blob/main/images/shark_activity.png?raw=true)
+
+# CONCLUSIONS
+- Clima change is doing a lot of **DAMAGE** to the earth and humans are losing neurons in each generation.
+- Be alert while surfing, there may be a shark lurking around that wants to take a bite out of you.
+- Young people like the madness, the adrenaline rush.
 
