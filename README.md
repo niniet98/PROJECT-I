@@ -71,6 +71,10 @@ For all the men reading this, can you answer the question?
 
 ![men_behavior](https://github.com/niniet98/PROJECT-I/blob/main/images/men_behavior.png?raw=true)
 
+## LINKS
+
+**[Link to Canva](https://www.canva.com/design/DAFyHMF0lnE/KKkSNnSOrZ-nlazc64hpbA/edit?utm_content=DAFyHMF0lnE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
 # CONCLUSIONS
 - Clima change is doing a lot of **DAMAGE** to the earth and humans are losing neurons in each generation.
 - Be alert while surfing, there may be a shark lurking around that wants to take a bite out of you.
