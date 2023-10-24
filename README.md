@@ -54,7 +54,7 @@ In addition, I wanted to show the attacks in the mentioned activities by gender,
 
 ## Are the young people the most attacked by sharks?
 
-According to the graph below, 50% of the people injured by sharks are between 17 and 35 years old and the median is at 24 years old, which means that 25% of the people attacked are between 17 and 24 years old. Then there are some outliers which are rare data, i.e., according to the data set provided, it is rare for a 70 year old person to be attacked.
+According to the graph below, 50% of the people injured by sharks are between 17 and 35 years old and the median is at 24 years old, which means that most of people attacked are between 17 and 24 years old. Then there are some outliers which are rare data, i.e., according to the data set provided, it is rare for a 70 year old person to be attacked.
 
 ![age_attack_pattern](https://github.com/niniet98/PROJECT-I/blob/main/images/age_attack_patterns.png?raw=true)
 
